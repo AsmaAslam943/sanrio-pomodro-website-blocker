@@ -1,8 +1,8 @@
-Sanrio Pomodoro Website Blocker 
+# Sanrio Pomodoro Website Blocker 
 
 A fun and effective way to stay focused using the Pomodoro technique—complete with a Sanrio twist! This Chrome extension blocks distracting websites while you work, helping you boost productivity in short, manageable bursts.
 
-Features 
+## Features 
 
 Pomodoro Timer: Work in focused intervals (default 25 minutes) with optional breaks.
 
@@ -12,12 +12,11 @@ Sanrio Theme: Adorable Sanrio visuals to make productivity fun.
 
 Customizable: Add your own blocked websites or adjust the timer lengths.
 
-Installation 
+## Installation 
 
-Link to the product: [](https://asmaaslam943.github.io/sanrio-pomodro-website-blocker/)
+# Link to the product: [](https://asmaaslam943.github.io/sanrio-pomodro-website-blocker/)
 
-Download the Archive.zip
- file.
+Download the Archive.zip file.
 
 Open Chrome and go to chrome://extensions/.
 
@@ -27,7 +26,7 @@ Click Load unpacked and select the extracted folder from the zip.
 
 The extension will appear in your toolbar—click it to start your Pomodoro sessions!
 
-Usage 
+## Usage 
 
 Open the extension from your Chrome toolbar.
 
