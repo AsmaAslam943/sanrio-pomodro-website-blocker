@@ -187,14 +187,8 @@ class PomodoroTimer {
         if (isBlocking) {
             this.blockingStatus.className = 'blocking-status active';
             this.blockingStatus.innerHTML = `
-                <strong>💖 Website Blocking: ACTIVE 💖</strong>
-                <p>Distracting sites are blocked during this focus session</p>
-            `;
-        } else {
-            this.blockingStatus.className = 'blocking-status';
-            this.blockingStatus.innerHTML = `
-                <strong>💕 Website Blocking: Inactive 💕</strong>
-                <p>Start a focus session to enable blocking</p>
+                <strong> Website Blocking: Available on Chrome </strong>
+                <p>Download onto Chrome via GitHub</p>
             `;
         }
     }
