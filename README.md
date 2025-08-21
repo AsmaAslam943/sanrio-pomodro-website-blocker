@@ -14,7 +14,7 @@ Customizable: Add your own blocked websites or adjust the timer lengths.
 
 ## Installation 
 
-# Link to the product: [](https://asmaaslam943.github.io/sanrio-pomodro-website-blocker/)
+# Link to the product: [(https://asmaaslam943.github.io/sanrio-pomodro-website-blocker/)]
 
 Download the Archive.zip file.
 
