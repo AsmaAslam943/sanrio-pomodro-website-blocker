@@ -183,12 +183,18 @@ class PomodoroTimer {
     
     updateBlockingStatus() {
         const isBlocking = this.isRunning && this.isWorking;
-        
+
         if (isBlocking) {
             this.blockingStatus.className = 'blocking-status active';
             this.blockingStatus.innerHTML = `
-                <strong> Website Blocking: Available on Chrome </strong>
-                <p>Download onto Chrome via GitHub</p>
+                <strong> Website Blocking: Available </strong>
+                <p>Download Archive.zip via GitHub</p>
+            `;
+        } else {
+            this.blockingStatus.className = 'blocking-status';
+            this.blockingStatus.innerHTML = `
+                <strong> Website Blocking: Inactive </strong>
+                <p>Download Archive.zip via GitHub</p>
             `;
         }
     }
